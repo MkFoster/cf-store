@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cf-store",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "81a4aacc-63d9-48ee-9568-0f06b87cd2c7",
+      "database_name": "mk-d1-store"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
